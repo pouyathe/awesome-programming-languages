@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **933** programming languages that you might be interested in.
+The list of **934** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1078,8 +1078,13 @@ The basic language is very portable. It runs on a tiny virtual machine (Nga), wh
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
 <a name="S"></a>
-# S (52):
+# S (53):
 - [SaC](https://www.sac-home.org/index) - Single-Assignment C is an array programming language predominantly suited for application areas such as numerically intensive applications and signal processing. Its distinctive feature is that it combines high-level program specifications with runtime efficiency similar to that of hand-optimized low-level specifications. Key to the optimization process that facilitates these runtimes is the underlying functional model which also constitutes the basis for implicit parallelisation. This makes SAC ideally suited for harnessing the full potential of a wide variety of modern architectures ranging from a few symmetric cores with shared memory to massively parallel systems that host heterogeneous components including GPUs and FPGAs.
+- [Sapphire](https://github.com/foxzyt/Sapphire) - A high-performance hybrid programming language designed for simplicity and efficiency. 
+Sapphire operates on a custom Virtual Machine (VM) with an optimized Garbage Collector (GC) to ensure stable memory management.
+It features a unique "Soft-error mode" for robust execution and comes as a highly portable single binary of only 30MB. 
+The language boasts a rich built-in ecosystem, including a native Immediate Mode UI (IMUI) library, networking (HTTP), 
+advanced Math functions (lerp, clamp, trig), and full System/IO integration, allowing developers to build complex visual tools without external dependencies.
 - [SATySFi](https://github.com/gfngfn/SATySFi) - SATySFi (pronounced in the same way as the verb “satisfy” in English) is a new typesetting system equipped with a statically-typed, functional programming language. It consists mainly of two “layers” ― the text layer and the program layer. The former is for writing documents in LaTeX-like syntax. The latter, which has OCaml-like syntax, is for defining functions and commands. SATySFi enables you to write documents markuped with flexible commands of your own making. In addition, its informative type error reporting will be a good help to your writing.
 - [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) - Scheme is a dialect of the Lisp family of programming languages. It was the first dialect of Lisp to choose lexical scope and the first to require implementations to perform tail-call optimization, giving stronger support for functional programming and associated techniques such as recursive algorithms. It was also one of the first programming languages to support first-class continuations.
 - [Scopes](https://sr.ht/~duangle/scopes/) - The Scopes Programming Language & Compiler Infrastructure
