@@ -828,6 +828,7 @@ of the code.
 - [Mond](https://github.com/Rohansi/Mond) - A scripting language for .NET Core. You can try it in a browser [here](https://rohbot.net/mond/).
 - [Monkey](https://monkeylang.org/) - Monkey is a programming language designed by Thorsten Ball.
 - [Monkey 2](https://github.com/blitz-research/monkey2) - Monkey2 is an easy to use, cross platform, games oriented programming language from Blitz Research.
+- [MonkeyScript](https://github.com/ownedalaa/MonkeyScript) - A lightweight, interpreted programming language written in C#.
 - [Monkey X](https://github.com/blitz-research/monkey/) - A games oriented programming language from Blitz Research.
 - [Monte](https://monte.readthedocs.io/en/latest/) - Monte is a programming language inspired by the E and Python programming languages. Monte aims to be:
  * A reliable scaffold for secure distributed computing
