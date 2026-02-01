@@ -470,6 +470,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Glee](http://withglee.com/Frames/GFMain.htm) - The Glee Programming Language is a new vector oriented interpretive computer programming tool. It is inspired by array oriented languages like APL, J, and K. It attempts to deliver many of the useful and powerful features of those languages for manipulating numeric data. Further, it strives to provide new functionality for consistent and powerful manipulation of character data. It is targeted at applications where languages like PERL, Python, and Java have found secure homes. These are all scalar languages so Glee has something new to bring to the party ... vector processing.
 - [Glide](https://github.com/dibsonthis/Glide) - Glide is a statically (and dynamically) typed language designed to make reading and writing data transformations easier. [refinement types]
 - [GLMS](https://github.com/sebbekarlsson/glms) - A scripting language focused on linear algebra, heavily inspired by GLSL and JavaScript. [algebra, shaders]
+- [G](https://github.com/pouyathe/glang) - A fast, simple tiny footprint (about 2.4MB) and script language.
 - [Gluon](https://github.com/gluon-lang/gluon) - Gluon is a static, type inferred and embeddabble language written in Rust.
 - [gnarly](https://code.google.com/archive/p/gnarly/) - Design and Implementation of a Hybrid Typed Programming Language
 - [Go+](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
